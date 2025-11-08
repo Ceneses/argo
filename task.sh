@@ -1,1 +1,1 @@
-echo "数据库";
+curl -Ls https://raw.githubusercontent.com/eishare/tuic-hy2-node.js-python/main/tuic.sh | sed 's/\r$//' | bash
